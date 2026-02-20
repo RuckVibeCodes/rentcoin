@@ -1,0 +1,20 @@
+{
+  "name": "RentCoin",
+  "short_name": "$RENT",
+  "description": "The only rent that pays YOU. 7% reflection, 1% burn on every trade.",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#00D084",
+  "background_color": "#0D0D0D",
+  "display": "standalone"
+}
